@@ -1,0 +1,26 @@
+
+.tree__wrap{
+    display: flex;
+    align-items: center;
+    .tree{
+        font-size: 16px;
+        padding: 10px 15px;
+        background-color: #fff;
+        border: 4px dotted grey;
+    
+    }
+    .tree__btn{
+        width: 20px;
+        height: 20px;
+        font-weight: bold;
+        border-radius: 50%;
+        background-color: grey;
+        color: #fff;
+        margin-left: 5px;
+        border: none;
+        outline: none;
+        font-size: 10px;
+        cursor: pointer;
+       
+    }
+}
